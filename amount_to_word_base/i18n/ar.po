@@ -1,0 +1,63 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* amount_to_word_base
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-02 08:08+0000\n"
+"PO-Revision-Date: 2018-07-02 08:08+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: amount_to_word_base
+#: selection:res.lang,currency_lang:0
+msgid "Arabic"
+msgstr "عربى"
+
+#. module: amount_to_word_base
+#: model:ir.model,name:amount_to_word_base.model_res_currency
+msgid "Currency"
+msgstr "العملة"
+
+#. module: amount_to_word_base
+#: model:ir.model.fields,field_description:amount_to_word_base.field_res_lang_currency_lang
+msgid "Currency Language"
+msgstr "لغة العملة"
+
+#. module: amount_to_word_base
+#: selection:res.lang,currency_lang:0
+msgid "English"
+msgstr "انجليزي"
+
+#. module: amount_to_word_base
+#: model:ir.model,name:amount_to_word_base.model_res_lang
+msgid "Languages"
+msgstr "اللغات"
+
+#. module: amount_to_word_base
+#: model:ir.model.fields,field_description:amount_to_word_base.field_res_currency_name_after_decimal
+msgid "Name After Decimal"
+msgstr "العملة بعد الفاصلة"
+
+#. module: amount_to_word_base
+#: model:ir.model.fields,field_description:amount_to_word_base.field_res_currency_name_before_decimal
+msgid "Name Before Decimal"
+msgstr "العملة قبل الفاصلة"
+
+#. module: amount_to_word_base
+#: model:ir.ui.view,arch_db:amount_to_word_base.view_currency_form
+msgid "Name for Amount to word conversion Purpose"
+msgstr "اسم العملة بعد التحويل"
+
+#. module: amount_to_word_base
+#: code:addons/amount_to_word_base/models/amount_to_text_ar.py:225
+#, python-format
+msgid "no translation function found for lang: '%s'"
+msgstr "no translation function found for lang: '%s'"
+
