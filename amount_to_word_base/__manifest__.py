@@ -15,6 +15,9 @@
     'installable': True,
     'application': False,
     'auto_install': False,
+    'price': 10,
+    'currency': 'USD',
+    'license': 'AGPL-3'	
 
 }
 
