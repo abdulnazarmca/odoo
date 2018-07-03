@@ -1,0 +1,71 @@
+<section class="oe_container">
+    <div class="oe_row oe_spaced">
+        <h2 class="oe_slogan">Account Print Payment</h2>
+	<h4 class="oe_slogan" style="font-size: 23px;">Parker Randall</h4>
+	<h3 class="oe_slogan">Output Preview English</h3>
+	<div class="oe_demo oe_screenshot" style="max-width: 84%; margin: 16px 8%;">
+	    <img src="Screenshot1.png">
+	</div>
+    </div>
+</section>
+
+<section class="oe_container">
+    <div class="oe_row oe_spaced">
+	<h3 class="oe_slogan">Output Preview Arabic</h3>
+	<div class="oe_demo oe_screenshot" style="max-width: 84%; margin: 16px 8%;">
+	    <img src="Screenshot2.png">
+	</div>
+    </div>
+</section>
+
+<section class="oe_container">
+    <div class="oe_row oe_spaced">
+	<h3 class="oe_slogan">Partner Setting</h3>
+	<div class="oe_span6">
+	    <p class="oe_mt32 text-justify">
+		<span style="color: green;"> &#9745; </span> Open Particular Partner <br />
+		<span style="color: green;"> &#9745; </span> Change Language <br />
+		<span style="color: green;"> &#9745; </span> Default Language is English <br />
+	    </p>
+	</div>
+	<div class="oe_span6">
+	    <img class="oe_picture oe_screenshot" src="Screenshot3.png">
+	</div>
+    </div>
+</section>
+
+<section class="oe_container">
+    <div class="oe_row oe_spaced">
+	<h3 class="oe_slogan">Print Option</h3>
+	<div class="oe_span6">
+	    <p class="oe_mt32 text-justify">
+		<span style="color: green;"> &#9745; </span> Open Particular Payments <br />
+		<span style="color: green;"> &#9745; </span> Print - Receipt <br />
+	    </p>
+	</div>
+	<div class="oe_span6">
+	    <img class="oe_picture oe_screenshot" src="Screenshot4.png">
+	</div>
+    </div>
+</section>
+
+<section class="oe_container oe_dark">
+    <h3 class="oe_slogan">Help and Support</h3>
+    <h5 class="oe_slogan" style="font-size: 20px;">
+	Feel free to contact us, if you need any help with your Odoo integration or addiontal features.
+    </h5>
+    <div class="oe_slogan">
+	<a class="btn btn-primary btn-lg mt8" href="mailto:nazar@pr-uae.com">
+	    <i class="fa fa-envelope"></i> Email
+	</a>
+	<a class="btn btn-primary btn-lg mt8" href="http://pr-odooerp.com/page/contactus">
+	    <i class="fa fa-phone"></i> Contact
+	</a>
+	<a class="btn btn-primary btn-lg mt8" href="mailto:abdulnazarmca@gmail.com">
+	    <i class="fa fa-life-ring"></i> Support
+	</a>
+    </div>
+    <img src="icon.png" style="width: 200px; margin-bottom: 20px;" class="center-block">
+</section>
+
+

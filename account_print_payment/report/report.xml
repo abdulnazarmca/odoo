@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!-- QWeb Reports -->
+
+        <report 
+            id="action_account_print_payment"
+            model="account.payment"
+            string="Receipt"
+            report_type="qweb-pdf"
+            name="account_print_payment.report_print_payment"
+            file="account_print_payment.report_print_payment"
+            />
+
+
+
+    </data>
+</odoo>
